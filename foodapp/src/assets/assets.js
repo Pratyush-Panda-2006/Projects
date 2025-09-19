@@ -72,6 +72,7 @@ export const assets = {
     app_store,
     play_store,
     linkedin_icon,
+    rating_starts ,
     facebook_icon,
     twitter_icon,
     cross_icon,
